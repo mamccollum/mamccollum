@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi there!
+- 🪪 My name is Molly.
+- ♀️ My pronouns are she/her.
+- 💾 I love Unix.
+- 💼 Working towards getting the CompTIA Network+ Certification.
 
 <!--
 **mamccollum/mamccollum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
