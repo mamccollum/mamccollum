@@ -3,6 +3,8 @@
 - ♀️ My pronouns are she/her.
 - 💾 I love Unix.
 - 💼 Working towards getting the CompTIA Network+ Certification.
+- 💻 I use a ThinkPad T420.
+- 📫 My email is [mam@sdf.org](mailto:mam@sdf.org).
 
 [![Molly's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamccollum)](https://github.com/anuraghazra/github-readme-stats)
 
