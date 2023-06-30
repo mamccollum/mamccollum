@@ -1,9 +1,11 @@
+![Molly's Silly Logo](mollylogo.png)
 ### 👋 Hi there!
 - 🪪 My name is Molly.
 - ♀️ My pronouns are she/her.
 - 💾 I love Unix.
-- 💼 Working towards getting the CompTIA Network+ Certification.
-- 💻 I use a ThinkPad T420 & a Samsung Chromebook (yes, I'm serious).
+- 💼 Working towards getting the CompTIA Network+ Certification. Already have my A+.
+- 💻 I use a ThinkPad T420.
+- ✨ I like C and Korn Shell.
 - 📫 My email is [mamccollum06@gmail.com](mailto:mamccollum06@gmail.com).
 
 
