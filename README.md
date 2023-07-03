@@ -1,4 +1,6 @@
-<img src="./mollylogo.png" alt="Molly McCollum" width="450" align="center" />
+<p align="center">
+  <img src="./mollylogo.png" alt="Molly's Logo" height="200">
+</p>
 
 ### 👋 Hi there!
 - 🪪 My name is Molly.
