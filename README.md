@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mamccollum/mamccollum/main/mollylogo.png" alt="Molly McCollum" width="450"/>
+<img src="./mollylogo.png" alt="Molly McCollum" width="450" align="center" />
 
 ### 👋 Hi there!
 - 🪪 My name is Molly.
