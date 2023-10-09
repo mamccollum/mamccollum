@@ -9,7 +9,6 @@
 - 💼 Working towards getting the Cisco CCNA Certification. Already have my CompTIA A+.
 - 💻 I use a ThinkPad T420.
 - ✨ I like C and Korn Shell.
-- 📫 My email is [mam@sdf.org](mailto:mam@sdf.org).
 
 
 [![Molly's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamccollum)](https://github.com/anuraghazra/github-readme-stats)
