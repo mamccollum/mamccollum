@@ -6,8 +6,7 @@
 - 🪪 My name is Molly.
 - ♀️ My pronouns are she/her.
 - 💾 I love Unix.
-- 💼 Working towards getting the Cisco CCNA Certification. Already have my CompTIA A+.
-- 💻 I use a ThinkPad T420.
+- 💻 I use a ThinkPad T470.
 - ✨ I like C and Korn Shell.
 
 
