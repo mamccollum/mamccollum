@@ -4,5 +4,4 @@
 
 ### 👋 Hi there!
 - 🪪 My name is Molly.
-- ♀️ My pronouns are she/her.
 - 💾 I like Unix, especially NetBSD and Illumos.
